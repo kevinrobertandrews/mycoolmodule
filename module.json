@@ -1,6 +1,6 @@
 {
   "id": "mycoolmodule",
-  "title": "MyCoolModule",
+  "title": "My Cool Module",
   "version": "0.0.0",
   "compatibility": {
     "minimum": "12",
@@ -14,5 +14,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/kevinrobertandrews/mycoolmodule"
+  "url": "https://github.com/kevinrobertandrews/mycoolmodule",
+  "manifest": "https://raw.githubusercontent.com/kevinrobertandrews/mycoolmodule/refs/heads/main/module.json",
+  "download": "https://github.com/kevinrobertandrews/mycoolmodule/archive/refs/tags/0.0.0.zip"
 }
