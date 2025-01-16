@@ -16,5 +16,6 @@
   ],
   "url": "https://github.com/kevinrobertandrews/mycoolmodule",
   "manifest": "https://raw.githubusercontent.com/kevinrobertandrews/mycoolmodule/refs/heads/main/module.json",
-  "download": "https://github.com/kevinrobertandrews/mycoolmodule/archive/refs/tags/0.0.0.zip"
+  "download": "https://github.com/kevinrobertandrews/mycoolmodule/archive/refs/tags/0.0.0.zip",
+  "scripts": ["scripts/helloworld.js"]
 }
