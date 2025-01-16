@@ -14,8 +14,8 @@
       "flags": {}
     }
   ],
+  "esmodules": ["scripts/main.js"],
   "url": "https://github.com/kevinrobertandrews/mycoolmodule",
   "manifest": "https://raw.githubusercontent.com/kevinrobertandrews/mycoolmodule/refs/heads/main/module.json",
-  "download": "https://github.com/kevinrobertandrews/mycoolmodule/archive/refs/tags/0.0.1.zip",
-  "scripts": ["scripts/helloworld.js"]
+  "download": "https://github.com/kevinrobertandrews/mycoolmodule/archive/refs/tags/0.0.1.zip"
 }
